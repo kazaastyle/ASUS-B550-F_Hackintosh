@@ -1,0 +1,2 @@
+# ASUS-B550-F_Hackintosh
+ASUS B550-F Gaming (WIFI) CUSTOM EFI
